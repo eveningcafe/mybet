@@ -1,0 +1,14 @@
+#wrapper {
+  		width: 1260px;
+      height: 88px; 
+  		margin: 0px auto;
+  		border: 1px solid black;
+}
+
+#header {
+      border: 1px solid black;
+}
+
+#content {
+      border: 1px solid black; 
+}	

@@ -1,0 +1,33 @@
+.parent{
+	margin: 0 auto;
+	width: 1252px;
+	height: 138px;
+	border: 1px solid black;
+	color: #636b6f;
+}
+.girdleft{
+	width: 376px;
+	height: 138px;
+	margin-right: 25px;
+	border: 1px solid black;
+	color: #636b6f;
+	float: left;
+}
+.girdcenter{
+	width: 429px;
+	height: 138px;
+	margin-right: 25px;
+	border: 1px solid black;
+	color: #636b6f;
+	float: left;
+}
+.girdright{
+	width: 391px;
+	height: 138px;
+	border: 1px solid black;
+	color: #636b6f;
+	float: left;
+}
+.paragraph{
+	float: left;
+}
